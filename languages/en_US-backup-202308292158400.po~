@@ -1,0 +1,215 @@
+# Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/_s\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-04-17T21:03:15+00:00\n"
+"PO-Revision-Date: 2023-08-29 21:56+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: _s\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.4; wp-6.3"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"<b>Сформулируйте вопрос общими словами.</b> Составьте вопрос из ключевых "
+"слов, например, «Настроить интеграцию», «Добавить канал»"
+msgstr ""
+"Formulate the question in common words. Compose your question in keywords, "
+"for example, «Set up integration», «Add channel»"
+
+#: functions.php:133
+msgid "Add widgets here."
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:40
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Custom Search"
+msgstr ""
+
+#. Description of the theme
+msgid "Description"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: functions.php:56
+msgid "Footer"
+msgstr ""
+
+#: functions.php:54
+msgid "Header"
+msgstr ""
+
+#: functions.php:55
+msgid "Header (Help)"
+msgstr ""
+
+#. Name of the template
+msgid "Help"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#: template-parts/footers/footer.php:3
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: single.php:24
+msgid "Next:"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: template-parts/content.php:53 template-parts/content-page.php:25
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:46
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+msgid "Posted in %1$s"
+msgstr ""
+
+#: single.php:23
+msgid "Previous:"
+msgstr ""
+
+#: template-parts/headers/header.php:23
+msgid "Primary Menu"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: template-parts/footers/footer.php:6
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:28
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+msgid "SearchHelp"
+msgstr ""
+
+#: functions.php:131
+msgid "Sidebar"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: template-parts/footers/footer.php:12
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#. Author of the theme
+msgid "Underscores.me"
+msgstr ""
+
+#. Name of the theme
+msgid "wazzup"
+msgstr ""
+
+#: inc/post-type.php:11 template-parts/headers/header-help.php:9
+msgid "База знаний"
+msgstr "Knowledge Base"
+
+#: template-parts/headers/header-help.php:42
+#: template-parts/headers/header-help.php:71
+msgid "Вход в Wazzup"
+msgstr "Login Wazzup"
+
+#: template-parts/content-none.php:40
+msgid "Извините, но по вашему запросу ничего не найдено"
+msgstr "Sorry, but nothing matched your search terms"
+
+#: single-help.php:18 single-help.php:34 single-help.php:44
+msgid "Назад к разделам"
+msgstr "Back to sections"
+
+#: template-parts/content-none.php:43
+msgid "Обратитесь в поддержку. Ответим на любой вопрос за 5 минут:"
+msgstr "Contact support. We will answer any question in 5 minutes:"
+
+#: template-parts/headers/header-help.php:15
+#: template-parts/headers/header-help.php:17
+#: template-parts/headers/header-help.php:17
+#: template-parts/headers/header-help.php:19
+msgid "Поиск"
+msgstr "Search"
+
+#. %s: search query.
+#: archive-search.php:83 template-parts/content-none.php:17
+#, php-format
+msgid "Результаты поиска для: %s"
+msgstr "Search results for: %s"
