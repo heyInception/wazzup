@@ -11,6 +11,6 @@
 				/* translators: 1: Theme name, 2: Theme author. */
 				printf( esc_html__( 'Theme: %1$s by %2$s.', 'wazzup' ), 'wazzup', '<a href="http://underscores.me/">Underscores.me</a>' );
 				?>
-			Dev v1.1.1
+			Dev v1.1.3
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
